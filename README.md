@@ -1,4 +1,4 @@
-# ExosProceduralDeBasesPhp
+# Exercices PHP en procédural (Et sans fonction)
 Niv 1 : 8 exercices simples en php
 
     • Exercice 1
