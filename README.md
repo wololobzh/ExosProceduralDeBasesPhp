@@ -1,4 +1,4 @@
-# Exercices PHP en procédural (Et sans fonction)
+# Exercices PHP en procédural (Et sans création de fonction)
 Niv 1 : 8 exercices simples en php
 
     • Exercice 1
